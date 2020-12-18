@@ -1,0 +1,6 @@
+C:\Users\karin\source\repos\Stack\Stack\bin\Debug\Stack.dll
+C:\Users\karin\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\karin\source\repos\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\karin\source\repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\Stack\Stack\obj\Debug\Stack.dll
+C:\Users\karin\source\repos\Stack\Stack\obj\Debug\Stack.pdb
