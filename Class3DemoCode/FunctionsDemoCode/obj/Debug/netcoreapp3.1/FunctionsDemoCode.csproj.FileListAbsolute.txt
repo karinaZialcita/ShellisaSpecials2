@@ -1,0 +1,13 @@
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.exe
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.deps.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.runtimeconfig.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.runtimeconfig.dev.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\bin\Debug\netcoreapp3.1\FunctionsDemoCode.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.csprojAssemblyReference.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.AssemblyInfo.cs
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Class3DemoCode\FunctionsDemoCode\obj\Debug\netcoreapp3.1\FunctionsDemoCode.genruntimeconfig.cache

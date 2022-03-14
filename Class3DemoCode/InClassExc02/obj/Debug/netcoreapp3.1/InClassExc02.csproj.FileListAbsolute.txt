@@ -1,0 +1,13 @@
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.exe
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.deps.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.runtimeconfig.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.runtimeconfig.dev.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\bin\Debug\netcoreapp3.1\InClassExc02.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.csprojAssemblyReference.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.AssemblyInfo.cs
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\Class3DemoCode\InClassExc02\obj\Debug\netcoreapp3.1\InClassExc02.genruntimeconfig.cache
