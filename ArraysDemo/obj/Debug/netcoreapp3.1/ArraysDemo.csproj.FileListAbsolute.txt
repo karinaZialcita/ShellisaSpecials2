@@ -1,0 +1,12 @@
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.exe
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.deps.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.runtimeconfig.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.runtimeconfig.dev.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.AssemblyInfo.cs
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.genruntimeconfig.cache

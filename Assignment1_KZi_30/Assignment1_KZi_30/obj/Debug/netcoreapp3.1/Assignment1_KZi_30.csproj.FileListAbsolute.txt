@@ -1,0 +1,13 @@
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.exe
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.deps.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.runtimeconfig.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.runtimeconfig.dev.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\bin\Debug\netcoreapp3.1\Assignment1_KZi_30.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.csprojAssemblyReference.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.AssemblyInfo.cs
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302 c sharp\Assignment1_KZi_30\Assignment1_KZi_30\obj\Debug\netcoreapp3.1\Assignment1_KZi_30.genruntimeconfig.cache
