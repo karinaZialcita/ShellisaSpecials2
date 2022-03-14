@@ -1,0 +1,12 @@
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.exe
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.deps.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.runtimeconfig.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.runtimeconfig.dev.json
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\bin\Debug\netcoreapp3.1\BadMilkGoodMilk.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.AssemblyInfoInputs.cache
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.AssemblyInfo.cs
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.dll
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.pdb
+C:\Users\karin\OneDrive - Vancouver Community College\1302\BadMilkGoodMilk\BadMilkGoodMilk\obj\Debug\netcoreapp3.1\BadMilkGoodMilk.genruntimeconfig.cache
